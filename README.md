@@ -57,7 +57,7 @@ The main website is a static page listing all the games with images and links to
 
 ## 📸 Screenshots
 
-| Main Site | Tic Tac Toe AI | Scratch Spaceship |
+| Main Site | Codepen Source Code | Scratch Source Code |
 |-----------|----------------|-------------------|
 | ![Main](./image/main.png) | ![TicTacToe](./image/tictactoe.png) | ![Spaceship](./image/scratch.png) |
 
